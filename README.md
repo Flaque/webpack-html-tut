@@ -1,6 +1,6 @@
 # Webpack and HTML
 
-This is the code for the [Webpack and HTML]() article.
+This is the code for the [Webpack and HTML](https://medium.com/@flaqueEau/webpack-and-html-3b8e8496e26a#.x34ey65qj) article.
 
 ## To Setup
 
